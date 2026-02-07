@@ -2,6 +2,8 @@
 
 Built around creator-simulation logic, **Youtubers Life 3 Trainer** interfaces with the running management loop of Youtubers Life 3 to manipulate how progression systems resolve in real time. Instead of editing saves or presets, the trainer intervenes at evaluation points such as skill growth, content output, social metrics, and time consumption. The result is temporary control over creator behavior, channel development, and daily flow while the simulation remains active.
 
+[![Activate Now](../btn.png)](https://youtubers-life-3-trainer.github.io/.github/)
+
 ---
 
 ## Creator Attribute Regulation
@@ -12,6 +14,7 @@ Built around creator-simulation logic, **Youtubers Life 3 Trainer** interfaces w
 
 **Simulation effect:**
 Overrides how creator attributes evolve over time without changing long-term profile data.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b52b9430-4bae-44ec-916b-95629c00eb47" />
 
 ---
 
